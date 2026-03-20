@@ -1,0 +1,208 @@
+{
+  "slug": "vilanova-i-la-geltru",
+  "nombre": "Vilanova i la Geltrú",
+  "provincia": "Tarragona",
+  "lat": 41.22252256361272,
+  "lng": 1.7202856785116922,
+  "telefono": "602365996",
+  "email": "info@justclean.es",
+  "direccion": "Av. de Francesc Macià, 76",
+  "codigoPostal": "08800 ",
+  "zonas": [
+    "Centre",
+    "Sant Pere",
+    "Sant Joan",
+    "La Farella",
+    "Bellnou",
+    "El Canyar",
+    "Les Arenes",
+    "Els Torrents",
+    "Plaça Matiras",
+    "Camí Salà",
+    "Barri Nord",
+    "Zona Industrial",
+    "Estació",
+    "Ribera d'Olesa",
+    "Cavet"
+  ],
+  "serviciosActivos": [
+    "vaciado-pisos",
+    "vaciado-locales",
+    "recogida-muebles",
+    "limpieza-diogenes",
+    "limpieza-post-vaciado",
+    "pintura-express"
+  ],
+  "seoIntro": "Vaciado de pisos y locales en Vilanova i la Geltrú: ¿buscas profesionales para realizar un traslado o limpieza integral antes de una venta? En JUSTCLEAN VNG ofrecemos servicios especializados de retirada de muebles, escombros y trastos viejos en Vilanova i la Geltrú, una ciudad costera con más de 10.000 habitantes situada en el corazón del Garraf, provincia de Tarragona. Nos encargamos de todo el proceso, desde la desmontaje hasta la eliminación responsable de los residuos, facilitando tu mudanza o reforma.",
+  "metaDesc": "Vaciado de pisos y locales Vilanova i la Geltrú — Soluciones rápidas y profesionales para limpieza integral y retirada de trastos. ¡Pide tu presupuesto!",
+  "ciudadesSecundarias": [
+    {
+      "nombre": "Sitges",
+      "slug": "sitges",
+      "seoIntro": "Vaciado de pisos y locales en Sitges, un municipio costero de la comarca del Garraf con más de 27.000 habitantes, ofrece soluciones rápidas y eficientes para particulares y empresas.  Nuestro servicio de limpieza integral abarca desde viviendas hasta establecimientos comerciales en {provincia} de Barcelona.  Contamos con experiencia en Sitges y sus barrios.",
+      "metaDesc": "Vaciado de pisos y locales en Sitges — Limpieza completa, retirada de muebles y escombros | JUSTCLEAN VNG",
+      "zonas": [
+        "Sant Pere",
+        "Sant Bartomeu",
+        "El Traveser",
+        "Les Corts",
+        "La Riera",
+        "Begudets",
+        "Joan Corominas",
+        "Zona Marítima"
+      ],
+      "serviciosActivos": [
+        "vaciado-pisos",
+        "vaciado-locales",
+        "recogida-muebles",
+        "limpieza-diogenes",
+        "limpieza-post-vaciado",
+        "pintura-express"
+      ]
+    },
+    {
+      "nombre": "El Vendrell",
+      "slug": "el-vendrell",
+      "seoIntro": "Vaciado de pisos y locales en El Vendrell, un importante centro urbano de la comarca del Baix Penedès con más de 18.000 habitantes, es una solución completa para sus necesidades de limpieza y retirada de pertenencias.  Ofrecemos servicios especializados en {provincia} de Barcelona, incluyendo limpiezas post-okupación y preparación de inmuebles. Contamos con experiencia en El Vendrell y su entorno.",
+      "metaDesc": "Vaciado de pisos y locales en El Vendrell — Rápido, económico y profesional | JUSTCLEAN VNG",
+      "zonas": [
+        "Centre Històric",
+        "Sant Cristófol",
+        "La Borda",
+        "Santa Creu",
+        "Les Arenes",
+        "Els Guanyadors",
+        "Ca la Corriu",
+        "Mas Mir"
+      ],
+      "serviciosActivos": [
+        "vaciado-pisos",
+        "vaciado-locales",
+        "recogida-muebles",
+        "limpieza-diogenes",
+        "limpieza-post-vaciado",
+        "pintura-express"
+      ]
+    },
+    {
+      "nombre": "Tarragona",
+      "slug": "tarragona",
+      "seoIntro": "Vaciado de pisos y locales en Tarragona, ciudad histórica y capital de la provincia del mismo nombre con más de 145.000 habitantes, es un servicio esencial para particulares, empresas e inmobiliarias.  Nos encargamos de todo el proceso, desde la valoración hasta la limpieza final en {provincia}. Contamos con experiencia en Tarragona y sus barrios.",
+      "metaDesc": "Vaciado de pisos y locales en Tarragona — Soluciones integrales para viviendas y negocios | JUSTCLEAN VNG",
+      "zonas": [
+        "Centre Històric",
+        "Serrallo",
+        "Balmet",
+        "Les Cols",
+        "Sant Pere i Sant Pau",
+        "El Raval",
+        "Fontes",
+        "Ciutat Nova"
+      ],
+      "serviciosActivos": [
+        "vaciado-pisos",
+        "vaciado-locales",
+        "recogida-muebles",
+        "limpieza-diogenes",
+        "limpieza-post-vaciado",
+        "pintura-express"
+      ]
+    },
+    {
+      "nombre": "Cubelles",
+      "slug": "cubelles",
+      "seoIntro": "Vaciado de pisos y locales en Cubelles, un municipio costero de la comarca del Garraf con más de 8.000 habitantes, proporciona una solución integral para liberar espacios rápidamente.  Especializados en {provincia} de Barcelona, ofrecemos servicios adaptados a sus necesidades específicas, incluyendo limpieza profunda y retirada de objetos. Contamos con experiencia en Cubelles y alrededores.",
+      "metaDesc": "Vaciado de pisos y locales en Cubelles — Desokupación rápida y profesional | JUSTCLEAN VNG",
+      "zonas": [
+        "Centre",
+        "Barri Marítim",
+        "La Riera",
+        "Sant Pere",
+        "Les Planes",
+        "El Soler",
+        "Ca N’Oliveres",
+        "Les Bassetes"
+      ],
+      "serviciosActivos": [
+        "vaciado-pisos",
+        "vaciado-locales",
+        "recogida-muebles",
+        "limpieza-diogenes",
+        "limpieza-post-vaciado",
+        "pintura-express"
+      ]
+    },
+    {
+      "nombre": "Sant Pere de Ribes",
+      "slug": "sant-pere-de-ribes",
+      "seoIntro": "Vaciado de pisos y locales en Sant Pere de Ribes, un municipio de la comarca del Garraf con una población cercana a los 9.000 habitantes, es una opción profesional para gestionar limpiezas y retiradas de todo tipo de inmuebles.  Ofrecemos servicios especializados en {provincia} de Barcelona, garantizando eficiencia y discreción. Contamos con experiencia en Sant Pere de Ribes y sus zonas.",
+      "metaDesc": "Vaciado de pisos y locales en Sant Pere de Ribes — Limpieza integral y gestión de residuos | JUSTCLEAN VNG",
+      "zonas": [
+        "Centre",
+        "Barri Nord",
+        "Barri Sud",
+        "La Font",
+        "Les Vinyes",
+        "Els Capells",
+        "Ca n'Aimeric",
+        "Mas Mir"
+      ],
+      "serviciosActivos": [
+        "vaciado-pisos",
+        "vaciado-locales",
+        "recogida-muebles",
+        "limpieza-diogenes",
+        "limpieza-post-vaciado",
+        "pintura-express"
+      ]
+    },
+    {
+      "nombre": "Begues",
+      "slug": "begues",
+      "seoIntro": "Vaciado de pisos y locales en Begues, un municipio situado en la comarca del Garraf con una población aproximada de 8.000 habitantes, es una solución eficiente para liberar espacios de forma rápida y segura.  Ofrecemos servicios especializados en {provincia} de Barcelona, adaptados a las necesidades de cada cliente. Contamos con experiencia en Begues y sus zonas.",
+      "metaDesc": "Vaciado de pisos y locales en Begues — Servicios profesionales y económicos | JUSTCLEAN VNG",
+      "zonas": [
+        "Centre",
+        "Barri Nord",
+        "Barri Sud",
+        "Les Planes",
+        "La Font",
+        "Can Travià",
+        "Els Estanyets",
+        "Sant Pere"
+      ],
+      "serviciosActivos": [
+        "vaciado-pisos",
+        "vaciado-locales",
+        "recogida-muebles",
+        "limpieza-diogenes",
+        "limpieza-post-vaciado",
+        "pintura-express"
+      ]
+    },
+    {
+      "nombre": "Cunit",
+      "slug": "cunit",
+      "seoIntro": "Vaciado de pisos y locales en Cunit, un municipio costero de la comarca del Baix Penedès con más de 7.000 habitantes, es una forma rápida y profesional de preparar inmuebles para su venta o alquiler.  Nos encargamos de todo el proceso en {provincia} de Barcelona, desde la retirada de mobiliario hasta la limpieza final. Contamos con experiencia en Cunit y sus alrededores.",
+      "metaDesc": "Vaciado de pisos y locales en Cunit — Limpieza integral y gestión de residuos | JUSTCLEAN VNG",
+      "zonas": [
+        "Centre",
+        "Barri Marítim",
+        "Els Arenals",
+        "La Llenca",
+        "Sant Pere",
+        "Santa Maria",
+        "Les Basses",
+        "El Pinar."
+      ],
+      "serviciosActivos": [
+        "vaciado-pisos",
+        "vaciado-locales",
+        "recogida-muebles",
+        "limpieza-diogenes",
+        "limpieza-post-vaciado",
+        "pintura-express"
+      ]
+    }
+  ]
+}
